@@ -1,6 +1,4 @@
-arn add humantime-js
-```
-
+ar
 ## 🚀 Usage
 ```bash
 import { timeAgo } from 'humantime-js';
