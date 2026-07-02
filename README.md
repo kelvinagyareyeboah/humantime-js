@@ -1,6 +1,6 @@
 s://bun.com/result?p=huma
 > ⚡ A tinipt library to turn timestamps into friendly phrases like **"just now
-## ✨ Features
+## ✨
 ✅ Ultra (under 1 KB) 
 ✅ Zero dependencies  
 ✅ Works seamlessly in Node.js & browsers  
