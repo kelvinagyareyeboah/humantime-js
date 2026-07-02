@@ -1,6 +1,6 @@
 
 ✅ Ultra (und
-✅ Works seamlessly in Node.js & browseran & human-friendly  
+✅ Works seamles.js & browseran & human-friendly  
 ✅ Quick to use and ea
 
 ## 📦 Installation
