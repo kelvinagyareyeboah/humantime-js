@@ -4,7 +4,7 @@
 ✅ Quick 
 ## 📦 Installation
 ```bash
-npm install humantime-js
+npm insta
 ```
 or with yarn
 ```bash
