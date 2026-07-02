@@ -1,7 +1,5 @@
  l Rollup
-npm test            # Run tests with Jest
-```
-## 🤝 Contributing
+npm test
 Contributions, issues and feature requests are welcome!
 Feel free to open a
 If you like this project, cons to show your support!
