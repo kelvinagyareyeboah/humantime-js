@@ -1,9 +1,6 @@
 uman-friendly  
 ✅ Quick 
 ## 📦 I
-```bash
-npm insta
-```
 or with
 yarn add humantime-js
 ```
