@@ -1,6 +1,5 @@
 
-✅ Ultra (under 1 KB) 
-✅ Zero
+✅ Ultra (und
 ✅ Works seamlessly in Node.js & browsers  
 ✅ Simple, clean & human-friendly  
 ✅ Quick to use and ea
