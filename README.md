@@ -1,5 +1,4 @@
-
-> ⚡ A tinipt library to turn timestamps into friendly phrases like **"just now
+ary to turn timestamps into friendly phrases like **"just now
 ## ✨
 ✅ Ultra (under 1 KB) 
 ✅ Zero dependencies  
