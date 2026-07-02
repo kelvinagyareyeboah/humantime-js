@@ -1,5 +1,4 @@
-
-# Build the library with Rollup
+ library with Rollup
 npm test            # Run tests with Jest
 ```
 ## 🤝 Contributing
