@@ -1,6 +1,4 @@
-uman-friendly  
-
-yarn add humantime-js
+arn add humantime-js
 ```
 
 ## 🚀 Usage
