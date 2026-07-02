@@ -1,7 +1,5 @@
  st
-## 🛠️ Build & Test
-```bash
-npm run build       # Build the library with Rollup
+# Build the library with Rollup
 npm test            # Run tests with Jest
 ```
 ## 🤝 Contributing
