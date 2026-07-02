@@ -1,7 +1,5 @@
 uman-friendly  
-✅ Quick 
-## 📦 I
-or with
+
 yarn add humantime-js
 ```
 
