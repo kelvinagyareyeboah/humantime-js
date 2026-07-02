@@ -1,4 +1,4 @@
-n](https://img.shields.io/npm/v/humantime-js?stylere&cgreen)](https://www.npmjs.com/package/humantime-js)
+g.shields.io/npm/v/humantime-js?stylere&cgreen)](https://www.npmjs.com/package/humantime-js)
 [![License](https://img.shields.io/npm/l/humantime-js?style=flat-square)](LICENSE)
 [![Bundle Size](https://badgen.nphobia/min/humantime-js)](https://bun.com/result?p=humantime-js)
 
