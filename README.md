@@ -1,4 +1,4 @@
- library with Rollup
+ l Rollup
 npm test            # Run tests with Jest
 ```
 ## 🤝 Contributing
