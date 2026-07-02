@@ -1,7 +1,4 @@
- string
-```
-Takes a JavaScript ``` Date ```object and returns a human-readable relative time string.
-
+ st
 ## 🛠️ Build & Test
 ```bash
 npm run build       # Build the library with Rollup
