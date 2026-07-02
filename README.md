@@ -1,7 +1,4 @@
-ar
-
-// Example: 3 minutes ago
-console.log(timeAgo(new Date(Date.now() - 3 * 60 * 1000))); // "3 mins ago"
+go(new Date(Date.now() - 3 * 60 * 1000))); // "3 mins ago"
 
 // Example: just now
 console.log(timeAgo(new Date())); // "just now"
