@@ -1,8 +1,7 @@
 
 ✅ Ultra (und
 ✅ Works seamles.js & browseran & human-friendly  
-✅ Quick to use and ea
-
+✅ Quick 
 ## 📦 Installation
 ```bash
 npm install humantime-js
