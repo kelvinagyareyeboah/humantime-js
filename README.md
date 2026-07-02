@@ -1,5 +1,4 @@
-ew Date())); // "just now"
-```
+
 >✨ Make your UI, blog, feed, or dashboard feel more alive and user-friendly!
 
 ## 📜 API
