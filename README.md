@@ -1,4 +1,4 @@
-ense](https://img.shields.io/npm/l/humantime-js?style=flat-square)](LICENSE)
+img.shields.io/npm/l/humantime-js?style=flat-square)](LICENSE)
 [![Bundle Size](https://badgen.nphobia/min/humantime-js)](https://bun.com/result?p=humantime-js)
 
 > ⚡ A tiny JavaScript library to turn timestamps into friendly phrases like **"just now"**, **"5 mins ago"**, or **"yesterday"**.
