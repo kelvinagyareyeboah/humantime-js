@@ -1,5 +1,4 @@
-t now
-console.log(timeAgo(new Date())); // "just now"
+ew Date())); // "just now"
 ```
 >✨ Make your UI, blog, feed, or dashboard feel more alive and user-friendly!
 
