@@ -1,4 +1,4 @@
- * 60 * 1000))); // "3 mins ago"
+o"
 
 // Example: just now
 console.log(timeAgo(new Date())); // "just now"
