@@ -1,5 +1,4 @@
-
-✅ Works seamles.js & browseran & human-friendly  
+uman-friendly  
 ✅ Quick 
 ## 📦 I
 ```bash
