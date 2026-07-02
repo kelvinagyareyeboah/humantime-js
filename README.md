@@ -1,5 +1,4 @@
-a/min/humantime-js)](https://bun.com/result?p=humantime-js)
-
+a/min/humantime-js)](https://bun.com/result?p=huma
 > ⚡ A tinipt library to turn timestamps into friendly phrases like **"just now
 ## ✨ Features
 ✅ Ultra lightweight (under 1 KB) 
