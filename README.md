@@ -2,7 +2,7 @@
 ✅ Ultra (und
 ✅ Works seamles.js & browseran & human-friendly  
 ✅ Quick 
-## 📦 Installation
+## 📦 I
 ```bash
 npm insta
 ```
