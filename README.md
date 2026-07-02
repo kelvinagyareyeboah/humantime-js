@@ -1,6 +1,4 @@
-dly!
 
-## 📜 API
 ```
 timeAgo(date: Date): string
 ```
