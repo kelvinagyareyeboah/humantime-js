@@ -3,8 +3,7 @@ npm test            # Run tests with Jest
 ```
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
-Feel free to open an issue orest.
-
+Feel free to open a
 If you like this project, cons to show your support!
 
 ## 📄 License
