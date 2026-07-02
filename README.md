@@ -5,7 +5,7 @@ npm test            # Run tests with Jest
 Contributions, issues and feature requests are welcome!
 Feel free to open an issue orest.
 
-If you like this project, consider leaving a ⭐ to show your support!
+If you like this project, cons to show your support!
 
 ## 📄 License
 MIT © 2025 Agyare Kelvin Yeboah
