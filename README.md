@@ -1,4 +1,4 @@
- blog, feed, or dashboard feel more alive and user-friendly!
+ dashboard feel more alive and user-friendly!
 
 ## 📜 API
 ```
