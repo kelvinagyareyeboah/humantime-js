@@ -6,8 +6,7 @@
 ```bash
 npm insta
 ```
-or with yarn
-```bash
+or with
 yarn add humantime-js
 ```
 
