@@ -1,4 +1,4 @@
- dashboard feel more alive and user-friendly!
+dly!
 
 ## 📜 API
 ```
