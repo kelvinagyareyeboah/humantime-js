@@ -1,4 +1,4 @@
-<p align="center">
+<p align="cent
   <img src="assets/banner.png" alt="humantime-js Banner" />
 </p>
 
