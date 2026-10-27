@@ -7,9 +7,7 @@
 4. 🚀 Push and open a PulIf this library saves you time, consider dropping
 ## 📄 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square
-## 📬 Let's Connect
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?s
 Have feedback, ideas, or just want to chat?
 
 <div align="center">
