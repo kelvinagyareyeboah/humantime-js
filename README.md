@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square
 ## 📬 Let's Connect
 
-Have feedback, ideas, or just want to chat? Find me here:
+Have feedback, ideas, or just want to chat?
 
 <div align="center">
 
