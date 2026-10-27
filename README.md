@@ -1,5 +1,4 @@
-                            // "just now"
-console.log(timeAgo(new Date(Date.now() - ### `timeAgo(dat
+ew Date(Date.now() - ### `timeAgo(dat
 Takes a Jav human-readable re
 | 45 seconds a
 | 3 minutes ago | `
