@@ -1,5 +1,4 @@
-ew Date(Date.now() - ### `timeAgo(dat
-Takes a Jav human-readable re
+able re
 | 45 seconds a
 | 3 minutes ago | `
 | 1 hour ago | `"1 hour ago
