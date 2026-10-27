@@ -4,10 +4,7 @@ ightweight** | Under 1 KB minified — won't bloat your bundle |
 | 🧠 **Human-friendly** | Output your users can actua
 ---
 
-## 📦 Installation
-
-```bash
-# npm
+## 📦 Inst# npm
 npm install humantime-js
 
 # yarn
