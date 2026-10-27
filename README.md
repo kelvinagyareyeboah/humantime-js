@@ -5,7 +5,7 @@
 | 5 days ago | `"5 da| 3 mont
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCodes/humantime-js/issues)
-[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCodes/humantime-js/stargazers)
+[![GitHub stars](https://img.shields.io/github/st-js?style=flat-square)](https://github.com/KelvCodes/humantime-js/stargazers)
 
 Contributions, bug reports, and feature requests are all welcome!
 
