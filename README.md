@@ -5,9 +5,7 @@
 | 5 days ago | `"5 da| 3 months ago | `"3 mo
 ## 
 ```bash
-npm run build   # Bundle with Rollup
-npm test        #
-
+npm run build   # Bundle with R
 ---
 
 ## 🤝 Contributing
