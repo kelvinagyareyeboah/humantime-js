@@ -5,9 +5,7 @@
 | 🪶 **Ultra lightweight** | Under 1 KB minified — won't bloat your bundle |
 | 🚫 **Zero dependencies** | Nothing extra. No surprises. |
 | ⚙️ **Universal** | Works in Node.js and all modern browsers |
-| 🧠 **Human-friendly** | Output your users can actually read |
-| 🔌 **Plug & play** | One import, one function call |
-
+| 🧠 **Human-friendly** | Output your users can actua
 ---
 
 ## 📦 Installation
