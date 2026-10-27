@@ -8,7 +8,7 @@ Takes a Jav human-readable relative tim|---|---|
 | 45 seconds ago | `"just now"` |
 | 3 minutes ago | `"3 mins ago"` |
 | 1 hour ago | `"1 hour ago"` |
-| Yesterday | `"yesterday"` |
+| Yesterday |
 | 5 days ago | `"5 days ago"` |
 | 2 weeks ago | `"2 weeks ago"` |
 | 3 months ago | `"3 months ago"` |
