@@ -6,8 +6,7 @@ console.log(timeAgo(new Date(Date.now() - 3// "3 mins
 > 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and make your ti
 ## 📜 API
 
-### `timeAgo(date: Date): string`
-
+### `timeAgo(dat
 Takes a JavaSct and returns a human-readable relative time string.
 
 | Input | Output |
