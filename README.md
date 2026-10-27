@@ -2,7 +2,7 @@
 | 5 days ago | `"5 da| 3 mont
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCodes/humantime-js
-1. 🍴 Fork the repository
+1.
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit -m "Add your feature"`
 4. 🚀 Push and open a Pull Request
