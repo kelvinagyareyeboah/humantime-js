@@ -7,10 +7,7 @@ console.log(timeAgo(new Date(Date.now() - 24 * 60 * 60 * 1000)));   // "yesterda
 console.log(timeAgo(new Date(Date.now() - 7 * 24 * 60 * 60 * 1000)));// "1 week ago"
 ```
 
-> 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and make your timestamps feel alive.
-
----
-
+> 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and make your ti
 ## 📜 API
 
 ### `timeAgo(date: Date): string`
