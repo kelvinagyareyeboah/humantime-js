@@ -5,10 +5,7 @@ ightweight** | Under 1 KB minified — won't bloat your bundle |
 ---
 
 ## 📦 Inst# npm
-npm install humanyarn add humantime-js
-
-# pnpm
-pnpm ad
+npm install humanyarn add humantime-j
 ```js
 import { timeAgo } from 'humantime-js';
 
