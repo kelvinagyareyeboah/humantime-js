@@ -1,4 +1,4 @@
-e.log(tiDate()));                                    // "just now"
+                            // "just now"
 console.log(timeAgo(new Date(Date.now() - ### `timeAgo(dat
 Takes a Jav human-readable re
 | 45 seconds a
