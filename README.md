@@ -2,10 +2,7 @@
 | 45 seconds a
 | 3 minutes ago | `
 | 1 hour ago | `"1 hour ago
-| 5 days ago | `"5 da| 3 months ago | `"3 months ago"` |
-
----
-
+| 5 days ago | `"5 da| 3 months ago | `"3 mo
 ## 🛠️ Build & Test
 
 ```bash
