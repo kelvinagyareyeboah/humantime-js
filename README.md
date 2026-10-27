@@ -1,5 +1,4 @@
- hour ago
-| 5 days ago | `"5 da| 3 mont
+ mont
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
