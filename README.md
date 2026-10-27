@@ -4,10 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit -m "Add your feature"`
-4. 🚀 Push and open a PulIf this library saves you time, consider dropping
-## 📄 License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?s
+4. 🚀 Push and open a PulIf this library saves you time, consider dr[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?s
 Have feedback, ideas, or just want to chat?
 
 <div align="center">
