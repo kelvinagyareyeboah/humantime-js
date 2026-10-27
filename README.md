@@ -1,10 +1,7 @@
 
 *"just now"* · *"5 min
 [Installation](#-installation) · [Usage](#-usage) · [API]
-## ✨ Features
-
-| | |
-|---|---|
+#|---|---|
 | 🪶 **Ultra lightweight** | Under 1 KB minified — won't bloat your bundle |
 | 🚫 **Zero dependencies** | Nothing extra. No surprises. |
 | ⚙️ **Universal** | Works in Node.js and all modern browsers |
