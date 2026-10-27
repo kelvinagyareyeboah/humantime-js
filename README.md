@@ -1,7 +1,7 @@
 
 <img src="assets/banner.png" alt="humantime-js
 
-[![npm version](https://img.shields.io/npm/v/humantime-js?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/humantime-js)
+[![npm version](https://img.shields.io/npm/v/humantime-js?style=flat-square&color=brightgreen)](https://www.npmjs.com/pa
 [![Bundle Size](https://badgen.net/bundlephobia/min/humantime-js)](https://bundlephobia.com/result?p=humantime-js)
 [![Downloads](https://img.shields.io/npm/dm/humantime-js?style=flat-square&color=blue)](https://www.npmjs.com/package/humantime-js)
 [![License: MIT](https://img.shields.io/npm/l/humantime-js?style=flat-square)](LICENSE)
