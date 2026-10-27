@@ -1,7 +1,4 @@
-
-
-```js
-import { timeAgo } from 'console.log(timeAgo(new Date()));                                    // "just now"
+e.log(timeAgo(new Date()));                                    // "just now"
 console.log(timeAgo(new Date(Date.now() - ### `timeAgo(dat
 Takes a Jav human-readable re
 | 45 seconds a
