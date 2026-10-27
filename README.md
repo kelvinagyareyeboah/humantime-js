@@ -1,5 +1,5 @@
 s. |
-| ⚙️ **Universal** | Works in Node.js and all modern browsers |
+| ⚙️ **Universal**n Node.js and all modern browsers |
 | 🧠 **Human-friendly** | Output your users can actua
 ---
 
