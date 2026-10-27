@@ -5,7 +5,7 @@ import { timeAgo } from 'console.log(timeAgo(new Date()));                      
 console.log(timeAgo(new Date(Date.now() - ### `timeAgo(dat
 Takes a Jav human-readable relative tim|---|---|
 | `new Date()` | `"just now"` |
-| 45 seconds ago | `"just now"` |
+| 45 seconds a
 | 3 minutes ago | `"3 mins ago"` |
 | 1 hour ago | `"1 hour ago
 | 5 days ago | `"5 days ago"` |
