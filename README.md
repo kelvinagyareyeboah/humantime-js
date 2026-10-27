@@ -7,8 +7,7 @@
 
 ```bash
 npm run build   # Bundle with Rollup
-npm test        # Run tests with Jest
-```
+npm test        #
 
 ---
 
