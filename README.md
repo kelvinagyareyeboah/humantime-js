@@ -1,9 +1,6 @@
 
 *"just now"* · *"5 min
-[Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Con
-
----
-
+[Installation](#-installation) · [Usage](#-usage) · [API]
 ## ✨ Features
 
 | | |
