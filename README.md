@@ -1,6 +1,6 @@
 s. |
 | ⚙️ **Universal**n Node.js and all modern browsers |
-| 🧠 **Human-friendly** | Output your users can actua
+| 🧠 **Human-friput your users can actua
 ---
 
 ## 📦 Inst# npm
