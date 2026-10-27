@@ -5,7 +5,7 @@
 npm install humanyarn add humantime-j
 ```js
 import { timeAgo } from 'console.log(timeAgo(new Date()));                                    // "just now"
-console.log(timeAgo(new Date(Date.now() - 3 * 60 * 1000)));         // "3 mins ago"
+console.log(timeAgo(new Date(Date.now() - 3// "3 mins ago"
 console.log(timeAgo(new Date(Date.now() - 24 * 60 * 60 * 1000)));   // "yesterday"
 console.log(timeAgo(new Date(Date.now() - 7 * 24 * 60 * 60 * 1000)));// "1 week ago"
 ```
