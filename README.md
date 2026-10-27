@@ -1,6 +1,5 @@
 
-## 📦 Inst# npm
-npm install humanyarn add humantime-j
+## 📦 Inst#nyarn add humantime-j
 ```js
 import { timeAgo } from 'console.log(timeAgo(new Date()));                                    // "just now"
 console.log(timeAgo(new Date(Date.now() - 3// "3 mins ago"
