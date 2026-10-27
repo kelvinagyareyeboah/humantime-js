@@ -9,9 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
-MIT © 2025 **Agyare Kelvin Yeboah**
-
----
+MIT © 2025 **Agyare K---
 
 ## 📬 Let's Connect
 
