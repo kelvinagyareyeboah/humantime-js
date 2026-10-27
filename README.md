@@ -7,7 +7,7 @@
 3. 💾 Commit: `git commit -m "Add your feature"`
 4. 🚀 Push and open a Pull Request
 
-If this library saves you time, consider dropping a ⭐ — it helps a lot!
+If this library saves you time, consider dropping a ⭐ — it hel
 
 ---
 
