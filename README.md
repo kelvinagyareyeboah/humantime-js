@@ -4,8 +4,7 @@
 
 *"just now"* · *"5 mins ago"* · *"yesterday"* · *"3 weeks ago"*
 
-[Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Contributing](#-contributing)
-
+[Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Contributing](#
 </div>
 
 ---
