@@ -8,7 +8,7 @@ ightweight** | Under 1 KB minified — won't bloat your bundle |
 npm install humanyarn add humantime-js
 
 # pnpm
-pnpm add humantime-js
+pnpm add 
 ```
 
 ---
