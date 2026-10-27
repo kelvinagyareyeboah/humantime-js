@@ -1,6 +1,5 @@
 
-| 45 seconds a
-| 3 minutes ago | `
+| 45 secon
 | 1 hour ago | `"1 hour ago
 | 5 days ago | `"5 da| 3 mont
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
