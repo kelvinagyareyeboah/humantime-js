@@ -1,5 +1,3 @@
- can actua
----
 
 ## 📦 Inst# npm
 npm install humanyarn add humantime-j
