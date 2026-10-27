@@ -1,8 +1,5 @@
 
-<img src="assets/banner.png" alt="humantime-js Banner" />
-# 
-
-**Turn timestamps into friendly, human-readable phrases — instantly.**
+<img src="assets/banner.png" alt="humantime-js
 
 [![npm version](https://img.shields.io/npm/v/humantime-js?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/humantime-js)
 [![Bundle Size](https://badgen.net/bundlephobia/min/humantime-js)](https://bundlephobia.com/result?p=humantime-js)
