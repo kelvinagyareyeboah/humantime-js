@@ -3,8 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 *"just now"* · *"5 mins ago"* · *"yesterday"* · *
-[Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Contributing](#
-</div>
+[Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Con
 
 ---
 
