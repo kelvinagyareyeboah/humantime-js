@@ -2,8 +2,7 @@
 <img src="assets/banner.png" alon)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
-*"just now"* · *"5 mins ago"* · *"yesterday"* · *"3 weeks ago"*
-
+*"just now"* · *"5 mins ago"* · *"yesterday"* · *
 [Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Contributing](#
 </div>
 
