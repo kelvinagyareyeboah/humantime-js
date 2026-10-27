@@ -5,10 +5,7 @@ import { timeAgo } from 'console.log(timeAgo(new Date()));                      
 console.log(timeAgo(new Date(Date.now() - 3// "3 mins
 > 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and mak
 ### `timeAgo(dat
-Takes a Jav human-readable relative time string.
-
-| Input | Output |
-|---|---|
+Takes a Jav human-readable relative tim|---|---|
 | `new Date()` | `"just now"` |
 | 45 seconds ago | `"just now"` |
 | 3 minutes ago | `"3 mins ago"` |
