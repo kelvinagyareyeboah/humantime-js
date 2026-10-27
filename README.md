@@ -1,4 +1,4 @@
-ightweighependencies** | Nothing extra. No surprises. |
+| Nothing extra. No surprises. |
 | ⚙️ **Universal** | Works in Node.js and all modern browsers |
 | 🧠 **Human-friendly** | Output your users can actua
 ---
