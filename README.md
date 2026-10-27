@@ -3,9 +3,7 @@
 | 3 minutes ago | `
 | 1 hour ago | `"1 hour ago
 | 5 days ago | `"5 da| 3 months ago | `"
-npm run build 
-
-## 🤝 Contributing
+npm r
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCodes/humantime-js/issues)
