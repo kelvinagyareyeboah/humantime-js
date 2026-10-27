@@ -5,9 +5,7 @@
 1.
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit -m "Add your feature"`
-4. 🚀 Push and open a Pull Request
-
-If this library saves you time, consider dropping a ⭐ — it hel
+4. 🚀 Push and open a PulIf this library saves you time, consider dropping a ⭐ — it hel
 
 ---
 
