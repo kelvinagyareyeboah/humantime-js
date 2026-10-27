@@ -2,9 +2,7 @@
 ## 📦 Inst#nyarn add humantime-j
 ```js
 import { timeAgo } from 'console.log(timeAgo(new Date()));                                    // "just now"
-console.log(timeAgo(new Date(Date.now() - 3// "3 mins ago"
-console.log(timeAgo(new Date(Date.now() - 24 * 60 * 60 * 1000)));   // ```
-
+console.log(timeAgo(new Date(Date.now() - 3// "3 mins
 > 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and make your ti
 ## 📜 API
 
