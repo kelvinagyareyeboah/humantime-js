@@ -1,6 +1,4 @@
-s. |
-| ⚙️ **Universal**n Node.js and all modern browsers |
-| 🧠 **Human-friput your users can actua
+ can actua
 ---
 
 ## 📦 Inst# npm
