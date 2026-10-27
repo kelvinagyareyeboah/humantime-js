@@ -7,10 +7,7 @@
 4. 🚀 Push and open a PulIf this library saves you time, consider dropping
 ## 📄 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-
-MIT © 2025 **Agyare K---
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square
 ## 📬 Let's Connect
 
 Have feedback, ideas, or just want to chat? Find me here:
