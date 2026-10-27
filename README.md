@@ -4,8 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/humantime-js?style=flat-square&color=brightgreen)](https://www.npmjs.com/pa
 [![Bundle Size](https://badgen.net/bundlephobia/min/humantime-js)](https://bundlephobia.com/result?p=humantime-js)
 [![Downloads](https://img.shields.io/npm/dm/humantime-js?style=flat-square&color=blue)](https://www.npmjs.com/package/humantime-js)
-[![License: MIT](https://img.shields.io/npm/l/humantime-js?style=flat-square)](LICENSE)
-[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen?style=flat-square)](package.json)
+[![License: MIT](https://img.shields.io/npm/l/humantime-js?stylele=flat-square)](package.json)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 *"just now"* · *"5 mins ago"* · *"yesterday"* · *"3 weeks ago"*
