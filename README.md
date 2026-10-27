@@ -2,9 +2,7 @@
 
 ```js
 import { timeAgo } from 'console.log(timeAgo(new Date()));                                    // "just now"
-console.log(timeAgo(new Date(Date.now() - 3// "3 mins
-> 💡 **Drop it into any UI** — feeds, blogs, dashboards, comment sections — and mak
-### `timeAgo(dat
+console.log(timeAgo(new Date(Date.now() - ### `timeAgo(dat
 Takes a Jav human-readable relative tim|---|---|
 | `new Date()` | `"just now"` |
 | 45 seconds ago | `"just now"` |
