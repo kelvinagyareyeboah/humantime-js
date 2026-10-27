@@ -8,7 +8,7 @@ console.log(timeAgo(new Date(Date.now() - 3// "3 mins
 
 ### `timeAgo(date: Date): string`
 
-Takes a JavaScript `Date` object and returns a human-readable relative time string.
+Takes a JavaSct and returns a human-readable relative time string.
 
 | Input | Output |
 |---|---|
