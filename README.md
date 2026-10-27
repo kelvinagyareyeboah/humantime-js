@@ -1,4 +1,3 @@
-s.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 *"just now"* · *"5 min
 [Installation](#-installation) · [Usage](#-usage) · [API](#-api) · [Con
