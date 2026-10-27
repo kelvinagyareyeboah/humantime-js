@@ -1,7 +1,6 @@
 
 <img src="assets/banner.png" alt="humantime-js Banner" />
-
-# ⏱️ humantime-js
+# 
 
 **Turn timestamps into friendly, human-readable phrases — instantly.**
 
