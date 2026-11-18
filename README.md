@@ -1,4 +1,4 @@
-e-js?style=flat-square)](https://github.com/KelvCo
+style=flat-square)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit -m "Add your fHave feedbaust want to chat?
 
