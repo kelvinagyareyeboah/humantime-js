@@ -1,7 +1,6 @@
 are)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
-3. 💾 Commit: `git commit -m "Add your fHave feedbaust want to chat?
-
+3. 💾 Commit: `git commit -m "Add your fHave feedbaust want
 <div align="center">
 [![Email](https://img.shields.io&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yo.kelvin/)
