@@ -1,8 +1,6 @@
 e-js?style=flat-square)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
-3. 💾 Commit: `git commit -m "Add your feature"`
-4. 🚀 Push and open a PulIf this library saves you er dr[!img.shields.io/badge/License-MIT-yellow?s
-Have feedbaust want to chat?
+3. 💾 Commit: `git commit -m "Add your fHave feedbaust want to chat?
 
 <div align="center">
 [![Email](https://img.shields.io&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)
