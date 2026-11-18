@@ -1,6 +1,6 @@
 
 2. 🌿 Create a branch: `git c-feature`
-3. 💾 Commit: `git commit - fHave feedba
+3. 💾 Commit: `git commit - fHav
 [![Email](https://img.shields.io&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yo.kelvin/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1)
