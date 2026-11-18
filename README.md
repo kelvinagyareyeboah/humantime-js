@@ -1,4 +1,4 @@
-yle=flat-square)](CONTRIBUTING.md)
+-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/humantime-js?style=flat-square)](https://github.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit -m "Add your feature"`
