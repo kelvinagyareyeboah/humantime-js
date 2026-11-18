@@ -1,4 +1,4 @@
-are)]hub.com/KelvCo
+.com/KelvCo
 2. 🌿 Create a branch: `git checkout -b feature/your-feature`
 3. 💾 Commit: `git commit - fHave feedbaust want
 <div align="center">
