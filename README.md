@@ -1,5 +1,5 @@
 
-2. 🌿 Create a branch: `git checkout -b feature/your-feature`
+2. 🌿 Create a branch: `git c-feature`
 3. 💾 Commit: `git commit - fHave feedba
 [![Email](https://img.shields.io&logo=gmail&logoColor=white)](mailto:onlykelvin06@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.yo.kelvin/)
