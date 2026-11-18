@@ -9,9 +9,6 @@ ranch: `git c-feature`
 </div>
 
 ---
-
-<div align="center">
-
 *Because your users deserve text that feels natural — not robotic timestamps.*
 
 </div>
