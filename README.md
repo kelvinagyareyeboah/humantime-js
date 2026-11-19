@@ -1,2 +1,2 @@
 ](https://img.shields.io/badge/nsm-E4405F?style=for-the-o=instagram&logoColor=white)](https://www.instagram.com/_.yo.ke
-[![YouTube](htt
+[![YouTube](
