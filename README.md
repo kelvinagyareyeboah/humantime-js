@@ -1,1 +1,1 @@
-](https://img.shields.ioge/ns
+](https://img.shields.ioge/
