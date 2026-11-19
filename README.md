@@ -1,1 +1,1 @@
-](https://img.shields.ioge/nsm-E4405F?style=for-th
+](https://img.shields.ioge/nsm-E4405F?style=for-t
