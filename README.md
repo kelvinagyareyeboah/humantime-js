@@ -1,1 +1,1 @@
-](https://img.shields.ioge/nsm-E4405F?sty
+](https://img.shields.ioge/nsm-E4405F?
